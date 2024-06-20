@@ -1,4 +1,12 @@
-## Welcome To Hyun GitHub! 👋
+## Welcome To Hyun GitHub!
+
+## Personal Info
+
+Hyun Ho Sung
+
+Daejin University
+
+Computer Science and Engineering(CSE)
 
 <!--
 **hosunghyun/hosunghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
