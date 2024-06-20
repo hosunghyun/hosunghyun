@@ -6,8 +6,8 @@
 - Computer Science and Engineering(CSE) 18
 
 ## 🔧 Technology Stacks
--Frontend :
--Backend :
+- Frontend :
+- Backend :
 
 ## 📝 My portfolio
 <!--
