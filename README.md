@@ -6,12 +6,14 @@
 - Computer Science and Engineering(CSE) 18
 
 ## 🔧 Technology Stacks
-- Frontend
-- Backend
-- DataBase
-- Server
-- Framework
-- Development Tool
+- Frontend :
+- Backend :
+- DataBase :
+- Server :
+- Framework :
+- Version Control :
+- Development Tool :
+  
 
 <img src="https://img.shields.io/badge/VSCODE-3776AB?style=for-the-badge&logo=Visual Studio Code&logoColor=skyblue">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
