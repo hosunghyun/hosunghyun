@@ -31,7 +31,7 @@
 
 ## 📃 Certification
 
-
+- 2024-08-18 정보처리기사(Engineer Information Processing)
 
 
 
