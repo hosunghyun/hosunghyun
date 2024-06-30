@@ -4,6 +4,8 @@
 - Hyun Ho Sung
 - Daejin University
 - Computer Science and Engineering(CSE) 18
+- 📃 **Certification**
+  - 2024-06-18 정보처리기사(Engineer Information Processing)
 
 ## 🔧 Technology Stacks
 - Frontend :
@@ -27,9 +29,9 @@
 
 ## 📝 My portfolio
 
-## 📃 Certification
+## 
 
-- 2024-08-18 정보처리기사(Engineer Information Processing)
+- 
 
 
 
