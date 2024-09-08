@@ -6,6 +6,7 @@
 - Computer Science and Engineering(CSE) 18
 - 📃 **Certification**
   - 2024-06-18 정보처리기사(Engineer Information Processing)
+  - 2024-09-06 SQLD (Structured Query Language Developer)
 
 ## 🔧 Technology Stacks
 - Language :
