@@ -2,7 +2,6 @@
 
 ## 🧒 Personal Info
 - Hyun Ho Sung
-  
 - Daejin University
 - Computer Science and Engineering(CSE) 18
 - 📃 **Certification**
