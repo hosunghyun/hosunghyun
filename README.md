@@ -1,7 +1,7 @@
-## 😊 Welcome To Hyun GitHub!
+## Welcome To Hyun GitHub!
 
 
-## 🧒 Personal Info
+## Personal Info
 - Hyun Ho Sung
 - Daejin University
 - Computer Science and Engineering(CSE) 18
@@ -9,7 +9,7 @@
   - 2024-06-18 정보처리기사(Engineer Information Processing)
   - 2024-09-06 SQLD (Structured Query Language Developer)
 
-## 🔧 Technology Stacks
+## Technology Stacks
 - Language :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -61,4 +61,4 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📝 My portfolio
+## My portfolio
