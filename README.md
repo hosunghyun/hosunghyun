@@ -48,3 +48,4 @@ Backend Developer
 ## Education
 - Deajin University Computer Science and Engineering (2018 - 2024)
 
+
